@@ -1,0 +1,25 @@
+{
+  "name": "cppm",
+  "displayName": "cppm",
+  "description": "an easier way to write cpp programs.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Programming Languages"
+  ],
+  "contributes": {
+    "languages": [{
+      "id": "cppm",
+      "aliases": ["cppm", "cppm"],
+      "extensions": [".cppm"],
+      "configuration": "./language-configuration.json"
+    }],
+    "grammars": [{
+      "language": "cppm",
+      "scopeName": "source.cppm",
+      "path": "./syntaxes/cppm.tmLanguage.json"
+    }]
+  }
+}
