@@ -1,9 +1,14 @@
 # Change Log
 
-All notable changes to the "cppm" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+All notable changes to this project will be documented in this file.
 
 ## [Unreleased]
 
 - Initial release
+
+## [0.0.1] - 2023-11-14
+
+- Initial release
+
+[unreleased]: http://localhost
+[0.0.1]: http://localhost
